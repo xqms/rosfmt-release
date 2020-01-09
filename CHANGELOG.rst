@@ -2,6 +2,12 @@
 Changelog for package rosfmt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+6.2.0 (2020-01-09)
+------------------
+* ensure vformat is only instantiated once -> faster compile times
+* update to fmt 6.0.0
+* Contributors: Max Schwarz
+
 6.1.0 (2019-05-14)
 ------------------
 * cmake: fix dependency tracking bugs
