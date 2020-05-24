@@ -1,3 +1,26 @@
+## rosfmt (noetic) - 6.2.0-1
+
+The packages in the `rosfmt` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic rosfmt --edit` on `Sun, 24 May 2020 10:53:19 -0000`
+
+The `rosfmt` package was released.
+
+Version of package(s) in repository `rosfmt`:
+
+- upstream repository: https://github.com/xqms/rosfmt.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `6.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## rosfmt (melodic) - 6.2.0-1
 
 The packages in the `rosfmt` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic rosfmt` on `Thu, 09 Jan 2020 11:22:00 -0000`
